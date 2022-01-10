@@ -1,0 +1,12 @@
+Package: Glitter
+Type: Package
+Title: Remove glitter from tumor only mutation calls)
+Version: 0.1.0
+Authors@R: 
+    person("Arshi", "Arora", , "arshiaurora@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-4040-1787"))
+Description: Flags leftover germline variants and other false positives from tumor only mutation calls.
+    Just like glitter which gets everywhere and is hard to remove.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
